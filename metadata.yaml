@@ -1,0 +1,27 @@
+_repo: The-Life-of-Tolstoy-First-Fifty-Years-Fifth-Edition_52242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maude, Aylmer
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '4589'
+    url: http://www.gutenberg.org/2009/agents/4589
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+description: ''
+gutenberg_issued: '2016-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+- !lcc 'PG'
+- GITenberg
+title: 'The Life of Tolstoy: First Fifty Years
+
+  Fifth Edition'
+url: http://www.gutenberg.org/ebooks/52242
